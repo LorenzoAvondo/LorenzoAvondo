@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Ciao, sono Lorenzo
 
-<!--
-**LorenzoAvondo/LorenzoAvondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Statistiche GitHub
+<div>
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoAvondo&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoAvondo&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+### Connettiti con me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orenzo-avondo-b64b77280)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white)](https://github.com/LorenzoAvondo)
