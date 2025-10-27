@@ -12,5 +12,5 @@
 ---
 
 ### Connettiti con me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orenzo-avondo-b64b77280)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-avondo-b64b77280)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white)](https://github.com/LorenzoAvondo)
